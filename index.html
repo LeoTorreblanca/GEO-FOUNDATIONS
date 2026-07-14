@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>GEO Foundations</title>
+
+<meta
+name="description"
+content="Formal mathematical foundations of the GEO Hidden Geometry Framework: geometry, mathematics, algebra, conservative organization, projective structures, and spectral invariants."
+
+>
+
+  <meta name="author" content="Leonel Hernán Torreblanca">
+
+  <style>
+    :root {
+      color-scheme: light dark;
+      --page: #f5f7fb;
+      --panel: #ffffff;
+      --text: #172033;
+      --muted: #5b6578;
+      --line: #dce2ec;
+      --accent: #265dba;
+      --code: #eef2f8;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --page: #0d1117;
+        --panel: #161b22;
+        --text: #e6edf3;
+        --muted: #a6b0bf;
+        --line: #30363d;
+        --accent: #7eb6ff;
+        --code: #21262d;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+      background: var(--page);
+      color: var(--text);
+      line-height: 1.65;
+    }
+
+    main {
+      width: min(960px, calc(100% - 32px));
+      margin: 40px auto;
+    }
+
+    header,
+    section,
+    footer {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 28px;
+      margin-bottom: 20px;
+    }
+
+    h1,
+    h2,
+    h3 {
+      line-height: 1.25;
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: clamp(2.2rem, 6vw, 4rem);
+    }
+
+    h2 {
+      margin-top: 0;
+      color: var(--accent);
+    }
+
+    p,
+    li {
+      max-width: 78ch;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      font-size: 1.2rem;
+    }
+
+    .principle {
+      border-left: 4px solid var(--accent);
+      padding: 12px 18px;
+      margin: 24px 0;
+      font-size: 1.1rem;
+      background: var(--code);
+    }
+
+    .modules {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 16px;
+    }
+
+    .module {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 18px;
+    }
+
+    .module h3 {
+      margin-top: 0;
+    }
+
+    pre {
+      overflow-x: auto;
+      padding: 18px;
+      border-radius: 10px;
+      background: var(--code);
+      border: 1px solid var(--line);
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 16px;
+      margin: 6px 8px 6px 0;
+      border: 1px solid var(--accent);
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    footer {
+      color: var(--muted);
+      text-align: center;
+    }
+  </style>
+
+</head>
+
+<body>
+  <main>
+    <header>
+      <p class="subtitle">GEO — Hidden Geometry Framework</p>
+
+```
+  <h1>GEO Foundations</h1>
+
+  <p class="subtitle">
+    Formal mathematical foundations developed through Geometry,
+    Mathematics, and Algebra.
+  </p>
+
+  <div class="principle">
+    <strong>Fundamental principle:</strong>
+    Observable structures arise as projections of invariant conservative
+    organization.
+  </div>
+
+  <a class="button" href="README.md">Repository Overview</a>
+  <a class="button" href="MASTER_REFERENCE.md">Master Reference</a>
+  <a class="button" href="LICENSE">MIT License</a>
+</header>
+
+<section>
+  <h2>Purpose</h2>
+
+  <p>
+    GEO Foundations is the public mathematical core of the GEO framework.
+    It develops a conservative geometric architecture before introducing
+    physical interpretation, observational applications, or
+    implementation-specific studies.
+  </p>
+
+  <p>
+    The objective is to provide a coherent and inspectable foundation from
+    which application-oriented GEO projects may be developed and evaluated
+    independently.
+  </p>
+</section>
+
+<section>
+  <h2>Modules</h2>
+
+  <div class="modules">
+    <article class="module">
+      <h3>GEO-GEOMETRY</h3>
+      <p>
+        Primitive organization, complementary sectors, projection,
+        harmonic structures, residual organization, spectral geometry,
+        and observable realization.
+      </p>
+      <a href="GEO-GEOMETRY/">Open module</a>
+    </article>
+
+    <article class="module">
+      <h3>GEO-MATH</h3>
+      <p>
+        Axioms, conservative decomposition, canonical operators,
+        projective harmonics, spectral organization, and observable
+        projection.
+      </p>
+      <a href="GEO-MATH/">Open module</a>
+    </article>
+
+    <article class="module">
+      <h3>GEO-ALGEBRA</h3>
+      <p>
+        Admissible transformations, quotient structures, reconstruction,
+        stable organization, spectral invariance, and algebraic closure.
+      </p>
+      <a href="GEO-ALGEBRA/">Open module</a>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>Logical Architecture</h2>
+
+  <pre>Primitive Organization
+    ↓
+```
+
+Admissible Transformation
+↓
+Conservative Decomposition
+↓
+Projective Equivalence
+↓
+Quotient Structure
+↓
+Representative Reconstruction
+↓
+Stable Organization
+↓
+Harmonic Organization
+↓
+Spectral Invariants
+↓
+Observable Projection</pre> </section>
+
+```
+<section>
+  <h2>Scope</h2>
+
+  <p>
+    This repository is intentionally limited to mathematical foundations.
+    Physical interpretations, cosmological applications, computational
+    laboratories, and validation workflows are maintained in independent
+    GEO repositories.
+  </p>
+
+  <p>
+    The repository should therefore be read as a foundational mathematical
+    construction, not as a claim of experimental confirmation or a
+    replacement for established physical models.
+  </p>
+</section>
+
+<section>
+  <h2>Author and Citation</h2>
+
+  <p>
+    <strong>Author:</strong> Leonel Hernán Torreblanca
+  </p>
+
+  <p>
+    Citation metadata is provided through
+    <a href="CITATION.cff">CITATION.cff</a>.
+    Permanent archival identifiers should reference the corresponding
+    versioned release.
+  </p>
+</section>
+
+<footer>
+  GEO Foundations · MIT License · 2026
+</footer>
+```
+
+  </main>
+</body>
+</html>
