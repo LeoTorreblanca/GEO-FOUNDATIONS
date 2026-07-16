@@ -16,20 +16,16 @@ Observable quantities therefore reveal the underlying organization rather than d
 
 The complete conservative state is
 
-[
-G_5 = O_3 \oplus B_2,
-]
+$$G_5 = O_3 \oplus B_2$$
 
 where
 
-* (O_3) represents the observable sector,
-* (B_2) represents the complementary sector.
+* $$O_3$$ represents the observable sector,
+* $$B_2$$ represents the complementary sector.
 
 Both remain permanently coupled through the conservation law
 
-[
-A+B=1.
-]
+$$A + B = 1$$
 
 Neither sector exists independently.
 
@@ -39,9 +35,7 @@ Neither sector exists independently.
 
 Observation is represented by
 
-[
-\Pi : G_5 \rightarrow O_3.
-]
+$$\Pi : G_5 \rightarrow O_3$$
 
 Projection limits access to the observable realization but preserves the complete conservative organization.
 
@@ -52,60 +46,27 @@ The complementary sector continues influencing observable dynamics through inter
 # 3. Conservative Hierarchy
 
 Observable quantities are generated only after the conservative hierarchy has been established:
-
-[
-A+B=1
-]
-
-↓
-
-Conservative Pair
-
-↓
-
-Harmonic Ring
-
-↓
-
-Residual Return
-
-↓
-
-[
-q
-]
-
-↓
-
-[
-M_5(q)
-]
-
-↓
-
-[
-\rho(M_5)
-]
-
-↓
-
-[
-\Phi
-]
-
-↓
-
-[
-\alpha
-]
-
-↓
-
-Projection
-
-↓
-
-Observation
+* $$A + B = 1$$
+* $$\downarrow$$
+* **Conservative Pair**
+* $$\downarrow$$
+* **Harmonic Ring**
+* $$\downarrow$$
+* **Residual Return**
+* $$\downarrow$$
+* $$q$$
+* $$\downarrow$$
+* $$M_5(q)$$
+* $$\downarrow$$
+* $$\rho(M_5)$$
+* $$\downarrow$$
+* $$\Phi$$
+* $$\downarrow$$
+* $$\alpha$$
+* $$\downarrow$$
+* **Projection**
+* $$\downarrow$$
+* **Observation**
 
 No observable parameter appears before transport and spectrum.
 
@@ -117,15 +78,11 @@ Within the canonical realization adopted by GEO-MATH,
 
 the Harmonic Ring generates the transport operator
 
-[
-M_5(q),
-]
+$$M_5(q)$$
 
 whose dominant spectral radius defines
 
-[
-\Phi.
-]
+$$\Phi$$
 
 Projection therefore inherits an already existing invariant.
 
@@ -135,23 +92,8 @@ Observation does not generate it.
 
 # 5. Observable Intensity
 
-The observable coupling intensity is
-
-[
-\boxed{
-\alpha
-======
-
-\frac{\Phi B}{\sqrt2}
-}
-]
-
-where
-
-[
-B=1-\eta.
-]
-
+The observable coupling intensity is given by:
+$$\alpha = \frac{\Phi B}{\sqrt{2}}, \quad \text{where } B = 1 - \eta$$
 The complementary sector therefore directly participates in every observable realization.
 
 ---
@@ -164,9 +106,7 @@ Observable enhancement always corresponds to complementary redistribution.
 
 The invariant
 
-[
-A+B=1
-]
+$$A + B = 1$$
 
 remains satisfied throughout the process.
 
@@ -176,53 +116,11 @@ No projection violates conservation.
 
 # 7. Cosmological Projection
 
-The first explicit application appears in cosmology.
-
-Defining
-
-[
-R=\eta^{1/3},
-]
-
-the projected expansion becomes
-
-[
-\boxed{
-H_0
-===
-
-H_{0,\mathrm{base}}
-\left[
-1+
-\alpha(1-R)
-\right].
-}
-]
-
-Replacing
-
-[
-\alpha
-======
-
-\frac{\Phi B}{\sqrt2},
-]
-
-one obtains
-
-[
-H_0
-===
-
-H_{0,\mathrm{base}}
-\left[
-1+
-\frac{\Phi B}{\sqrt2}
-(1-\eta^{1/3})
-\right].
-]
-
-The observed Hubble value therefore emerges as a direct consequence of conservative spectral organization.
+In cosmology, defining $$R = \eta^{1/3}$$, the projected expansion is:
+$$H_0 = H_{0,\text{base}} \left[ 1 + \alpha(1 - R) \right]$$
+Substituting $$\alpha = \frac{\Phi B}{\sqrt{2}}$$, we obtain:
+$$H_0 = H_{0,\text{base}} \left[ 1 + \frac{\Phi B}{\sqrt{2}} (1 - \eta^{1/3}) \right]$$
+The observed Hubble value emerges as a direct consequence of conservative spectral organization.
 
 ---
 
@@ -282,21 +180,15 @@ The Ring generates residual transport.
 
 Residual transport generates the operator
 
-[
-M_5(q).
-]
+$$M_5(q)$$
 
 Its dominant spectral realization defines
 
-[
-\Phi,
-]
+$$\Phi$$,
 
 which determines
 
-[
-\alpha.
-]
+$$\alpha$$.
 
 Projection finally maps this internal organization into measurable physics.
 
