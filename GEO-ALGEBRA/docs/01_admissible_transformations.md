@@ -18,15 +18,13 @@ Admissibility therefore precedes computation.
 
 Let
 
-\[
-T : G \rightarrow G
-\]
+$$T : G \rightarrow G$$
 
 be a transformation acting on primitive geometry.
 
-The central algebraic question is not whether \(T\) changes representation.
+The central algebraic question is not whether $$T$$ changes representation.
 
-The central question is whether \(T\) preserves primitive identity.
+The central question is whether $$T$$ preserves primitive identity.
 
 Only transformations satisfying this requirement are admissible.
 
@@ -36,9 +34,7 @@ Only transformations satisfying this requirement are admissible.
 
 A transformation
 
-\[
-T : G \rightarrow G
-\]
+$$T : G \rightarrow G$$
 
 is GEO-admissible if and only if it preserves reconstructability of primitive organization.
 
@@ -56,27 +52,19 @@ All other admissibility conditions follow from it.
 
 For every primitive state
 
-\[
-x \in G,
-\]
+$$x \in G$$
 
 there exists an admissible representative
 
-\[
-r
-\]
+$$r$$
 
 such that
 
-\[
-r \sim T(x),
-\]
+$$r \sim T(x)$$
 
 where
 
-\[
-\sim
-\]
+$$\sim$$
 
 denotes projective equivalence.
 
@@ -120,11 +108,7 @@ Observable geometry is represented by equivalence classes.
 
 Therefore admissible transformations must satisfy
 
-\[
-x \sim y
-\quad\Longrightarrow\quad
-T(x)\sim T(y).
-\]
+$$x \sim y \quad \Longrightarrow \quad T(x) \sim T(y)$$
 
 Equivalent representatives remain equivalent after transformation.
 
@@ -136,9 +120,7 @@ The quotient structure is preserved.
 
 Let
 
-\[
-T_1,T_2
-\]
+$$T_1, T_2$$
 
 be admissible.
 
@@ -148,9 +130,7 @@ their composition also preserves reconstructability.
 
 Therefore
 
-\[
-T_2\circ T_1
-\]
+$$T_2 \circ T_1$$
 
 is admissible.
 
@@ -162,17 +142,13 @@ The family of admissible transformations is closed under composition.
 
 The identity transformation
 
-\[
-I:G\rightarrow G
-\]
+$$I : G \rightarrow G$$
 
 preserves every representative and every equivalence class.
 
 Therefore
 
-\[
-I
-\]
+$$I$$
 
 is admissible.
 
@@ -186,23 +162,17 @@ Repeated application of an admissible transformation never destroys primitive or
 
 If
 
-\[
-T
-\]
+$$T$$
 
 is admissible,
 
 then
 
-\[
-T^n
-\]
+$$T^n$$
 
 is admissible for every positive integer
 
-\[
-n.
-\]
+$$n$$
 
 Thus admissibility is stable under iteration.
 
