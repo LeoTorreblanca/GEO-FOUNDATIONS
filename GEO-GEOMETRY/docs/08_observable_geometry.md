@@ -18,9 +18,7 @@ Observation reveals its consequences.
 
 The complete conservative structure satisfies
 
-\[
-A+B=1.
-\]
+$$A + B = 1$$
 
 Observable and complementary sectors form a single indivisible organization.
 
@@ -50,9 +48,7 @@ Residual memory produces residual return.
 
 Residual return defines the transport variable
 
-\[
-q.
-\]
+$$q$$
 
 The observable world therefore contains accumulated conservative history.
 
@@ -68,9 +64,7 @@ Within the canonical realization adopted by GEO-MATH,
 
 transport is represented through
 
-\[
-M_5(q).
-\]
+$$M_5(q)$$
 
 The operator organizes information before any observable projection occurs.
 
@@ -82,9 +76,7 @@ Stable transport develops invariant spectral structure.
 
 Its dominant realization is represented by
 
-\[
-\Phi=\rho(M_5).
-\]
+$$\Phi = \rho(M_5)$$
 
 The coherent depth operator therefore belongs to the internal geometry.
 
@@ -98,11 +90,7 @@ Projection converts spectral organization into measurable intensity.
 
 The observable coupling is
 
-\[
-\alpha
-=
-\frac{\Phi B}{\sqrt2}.
-\]
+$$\alpha = \frac{\Phi B}{\sqrt{2}}$$
 
 Observable intensity is therefore inherited from conservative transport.
 
@@ -114,9 +102,7 @@ It does not possess independent existence.
 
 Observation acts through projective realization
 
-\[
-\Pi:G_5\rightarrow O_3.
-\]
+$$\Pi : G_5 \rightarrow O_3$$
 
 Projection restricts accessible information.
 
@@ -152,83 +138,39 @@ Recoverability follows directly from conservation.
 
 # 10. Geometry Before Physics
 
-The complete hierarchy becomes
-
-\[
-A+B=1
-\]
-
-↓
-
-Repeated Conservative Evolution
-
-↓
-
-Unique Fixed Organization
-
-↓
-
-Harmonic Ring
-
-↓
-
-Residual Memory
-
-↓
-
-Residual Return
-
-↓
-
-\[
-q
-\]
-
-↓
-
-Conservative Transport
-
-↓
-
-\[
-M_5
-\]
-
-↓
-
-Spectral Organization
-
-↓
-
-\[
-\Phi
-\]
-
-↓
-
-Observable Coupling
-
-↓
-
-\[
-\alpha
-\]
-
-↓
-
-Projective Realization
-
-↓
-
-Observable Geometry
-
-↓
-
-Physical Measurement
-
-Geometry therefore precedes physics.
-
-Physics is the final representation of conservative organization.
+The complete hierarchy is:
+* $$A + B = 1$$
+* $$\downarrow$$
+* **Repeated Conservative Evolution**
+* $$\downarrow$$
+* **Unique Fixed Organization**
+* $$\downarrow$$
+* **Harmonic Ring**
+* $$\downarrow$$
+* **Residual Memory**
+* $$\downarrow$$
+* **Residual Return**
+* $$\downarrow$$
+* $$q$$
+* $$\downarrow$$
+* **Conservative Transport**
+* $$\downarrow$$
+* $$M_5$$
+* $$\downarrow$$
+* **Spectral Organization**
+* $$\downarrow$$
+* $$\Phi$$
+* $$\downarrow$$
+* **Observable Coupling**
+* $$\downarrow$$
+* $$\alpha$$
+* $$\downarrow$$
+* **Projective Realization**
+* $$\downarrow$$
+* **Observable Geometry**
+* $$\downarrow$$
+* **Physical Measurement**
+Geometry precedes physics, which is the final representation of conservative organization.
 
 ---
 
@@ -272,21 +214,15 @@ Residual memory generates residual return.
 
 Residual return produces conservative transport through
 
-\[
-M_5(q).
-\]
+$$M_5(q)$$
 
 Transport develops stable spectral organization represented canonically by
 
-\[
-\Phi=\rho(M_5).
-\]
+$$\Phi = \rho(M_5)$$
 
 Projection converts this organization into observable coupling through
 
-\[
-\alpha,
-\]
+$$\alpha$$
 
 making physical measurement the final consequence of an internally closed conservative hierarchy.
 
