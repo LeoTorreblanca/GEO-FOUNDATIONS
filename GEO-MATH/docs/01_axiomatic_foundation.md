@@ -20,9 +20,7 @@ Only structural principles are postulated.
 
 There exists a primitive generating geometry
 
-[
-\mathcal{G}
-]
+$$\mathcal{G}$$
 
 independent of any observation.
 
@@ -44,9 +42,7 @@ Only redistributed.
 
 Formally,
 
-[
-\mathcal{C}(\mathcal{G})=\mathcal{G}.
-]
+$$\mathcal{C}(\mathcal{G})=\mathcal{G}$$
 
 This conservation principle is the origin of all later invariants.
 
@@ -58,17 +54,13 @@ Every admissible organization admits a complementary description.
 
 If a sector
 
-[
-X
-]
+$$X$$
 
 is identified,
 
 there exists a complementary sector
 
-[
-X^\perp
-]
+$$X^\perp$$
 
 such that both together reconstruct the complete primitive organization.
 
@@ -82,9 +74,7 @@ Observation is not primitive.
 
 Observation is represented by a projection
 
-[
-\Pi
-]
+$$\Pi$$
 
 acting on the primitive geometry.
 
