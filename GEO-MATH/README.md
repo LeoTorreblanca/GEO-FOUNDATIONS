@@ -16,9 +16,7 @@ Observable physics is therefore interpreted as a consequence of primitive organi
 
 The complete primitive organization satisfies
 
-[
-A+B=1.
-]
+$$A+B=1.$$
 
 Observable and complementary sectors are not separate systems.
 
@@ -26,9 +24,7 @@ They form a permanently conserved pair.
 
 This conservative pair defines the five-dimensional primitive architecture
 
-[
-G_5 = O_3 \oplus B_2,
-]
+$$G_5 = O_3 \oplus B_2$$
 
 where
 
@@ -65,9 +61,7 @@ Instead, it stores conservative information and reinjects it into subsequent tra
 
 The first primitive recurrence naturally appears with characteristic order
 
-[
-B^5.
-]
+$$B^5$$
 
 Residual return therefore provides memory to the conservative system.
 
@@ -79,9 +73,7 @@ Transport becomes recurrent rather than static.
 
 Closed harmonic transport generates a conservative transfer operator
 
-[
-M_5(q),
-]
+$$M_5(q)$$
 
 whose internal structure couples observable and complementary sectors.
 
@@ -105,9 +97,7 @@ Within the canonical realization adopted by GEO-MATH,
 
 the dominant spectral invariant is defined by
 
-[
-\Phi=\rho(M_5),
-]
+$$\Phi=\rho(M_5)$$
 
 where
 
@@ -131,12 +121,7 @@ The invariant does not generate the transfer operator.
 
 Observable intensity follows directly from spectral organization:
 
-[
-\alpha
-======
-
-\frac{\Phi B}{\sqrt2}.
-]
+$$\alpha = \frac{\Phi B}{\sqrt2}$$
 
 Projection acts only after conservative organization has already been established.
 
@@ -224,23 +209,11 @@ the cosmological expansion becomes the first explicit observable realization of 
 
 Using
 
-[
-R=\eta^{1/3},
-]
+$$R=\eta^{1/3}$$
 
 projection yields
 
-[
-H_0
-===
-
-H_{0,\mathrm{base}}
-\left[
-1+
-\frac{\Phi B}{\sqrt2}
-(1-R)
-\right].
-]
+$$H_0 = H_{0,\mathrm{base}} \left[ 1+ \frac{\Phi B}{\sqrt2} (1-R) \right]$$
 
 The Hubble value is therefore interpreted as a consequence of conservative spectral organization.
 
