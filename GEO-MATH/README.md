@@ -121,7 +121,7 @@ The invariant does not generate the transfer operator.
 
 Observable intensity follows directly from spectral organization:
 
-$$\alpha = \frac{\Phi B}{\sqrt2}$$
+$$\alpha = \frac{\Phi B}{\sqrt{2}}$$
 
 Projection acts only after conservative organization has already been established.
 
@@ -133,9 +133,7 @@ Observable quantities therefore inherit internal structure rather than defining 
 
 The mathematical hierarchy developed by GEO-MATH is
 
-[
-A+B=1
-]
+$$A+B=1$$
 
 ↓
 
@@ -171,21 +169,15 @@ M_5(q)
 
 ↓
 
-[
-\rho(M_5)
-]
+$$\rho(M_5)$$
 
 ↓
 
-[
-\Phi
-]
+$$\Phi$$
 
 ↓
 
-[
-\alpha
-]
+$$\alpha$$
 
 ↓
 
