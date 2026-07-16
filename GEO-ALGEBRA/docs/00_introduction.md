@@ -22,7 +22,7 @@ The fundamental algebraic object is a conservative decomposition induced by admi
 
 In its canonical form:
 
-$$G = \operatorname{Im}(C) \oplus \ker(C)$$
+$$G = \text{Im}(C) \oplus \ker(C)$$
 
 This identity states that primitive organization is not destroyed by interaction.
 
