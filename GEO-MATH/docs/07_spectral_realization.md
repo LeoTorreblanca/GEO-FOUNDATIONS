@@ -18,9 +18,7 @@ Primitive geometry evolves through conservative transport.
 
 The underlying organization satisfies
 
-[
-A+B=1,
-]
+$$A + B = 1$$
 
 ensuring that observable and complementary sectors remain permanently coupled.
 
@@ -34,9 +32,7 @@ The Harmonic Ring generates recurrent conservative evolution.
 
 Residual return accumulated during closed transport defines the internal variable
 
-[
-q.
-]
+$$q$$
 
 The transport process therefore possesses memory.
 
@@ -50,9 +46,7 @@ Within the canonical realization adopted by GEO-MATH,
 
 conservative evolution is represented by
 
-[
-M_5(q).
-]
+$$M_5(q)$$
 
 This operator couples observable and complementary sectors into a single conservative dynamical system.
 
@@ -70,9 +64,7 @@ Accordingly,
 
 the principal invariant is represented by the spectral radius
 
-[
-\rho(M_5).
-]
+$$\rho(M_5)$$
 
 ---
 
@@ -82,14 +74,7 @@ Within the canonical realization of GEO-MATH,
 
 the coherent depth operator is identified with
 
-[
-\boxed{
-\Phi
-====
-
-\rho(M_5)
-}
-]
+$$\Phi = \rho(M_5)$$
 
 This relation is not an empirical calibration.
 
@@ -107,17 +92,13 @@ The spectral invariant measures its dominant stable mode.
 
 Consequently,
 
-[
-M_5
-]
+$$M_5$$
 
 is responsible for the dynamics,
 
 while
 
-[
-\Phi
-]
+$$\Phi$$
 
 represents the equilibrium reached by those dynamics.
 
@@ -143,14 +124,7 @@ Once the spectral invariant has emerged,
 
 observable intensity follows uniquely as
 
-[
-\boxed{
-\alpha
-======
-
-\frac{\Phi B}{\sqrt2}
-}
-]
+$$\alpha = \frac{\Phi B}{\sqrt{2}}$$
 
 No additional parameter is required.
 
@@ -160,57 +134,26 @@ Projection inherits the internal conservative spectrum.
 
 # 9. Hierarchical Consequence
 
-The complete logical sequence becomes
-
-[
-A+B=1
-]
-
-↓
-
-Conservative Pair
-
-↓
-
-Harmonic Ring
-
-↓
-
-Residual Return
-
-↓
-
-[
-q
-]
-
-↓
-
-[
-M_5(q)
-]
-
-↓
-
-[
-\rho(M_5)
-]
-
-↓
-
-[
-\Phi
-]
-
-↓
-
-[
-\alpha
-]
-
-↓
-
-Observable Projection
+The complete logical sequence is:
+* $$A + B = 1$$
+* $$\downarrow$$
+* **Conservative Pair**
+* $$\downarrow$$
+* **Harmonic Ring**
+* $$\downarrow$$
+* **Residual Return**
+* $$\downarrow$$
+* $$q$$
+* $$\downarrow$$
+* $$M_5(q)$$
+* $$\downarrow$$
+* $$\rho(M_5)$$
+* $$\downarrow$$
+* $$\Phi$$
+* $$\downarrow$$
+* $$\alpha$$
+* $$\downarrow$$
+* **Observable Projection**
 
 The invariant is therefore generated rather than assumed.
 
@@ -222,23 +165,11 @@ Cosmological expansion represents the first explicit observable realization of t
 
 Using
 
-[
-R=\eta^{1/3},
-]
+$$R = \eta^{1/3}$$
 
 projection yields
 
-[
-H_0
-===
-
-H_{0,\mathrm{base}}
-\left[
-1+
-\frac{\Phi B}{\sqrt2}
-(1-R)
-\right].
-]
+$$H_0 = H_{0,\text{base}} \left[ 1 + \frac{\Phi B}{\sqrt{2}} (1 - R) \right]$$
 
 The Hubble value is therefore interpreted as a consequence of spectral organization.
 
@@ -272,21 +203,15 @@ The Harmonic Ring generates residual return.
 
 Residual return generates the transport operator
 
-[
-M_5(q).
-]
+$$M_5(q)$$
 
 The dominant spectral mode of that operator defines
 
-[
-\Phi.
-]
+$$\Phi$$
 
 Observable intensity follows through
 
-[
-\alpha,
-]
+$$\alpha$$.
 
 and physical measurements arise only after projective realization.
 
