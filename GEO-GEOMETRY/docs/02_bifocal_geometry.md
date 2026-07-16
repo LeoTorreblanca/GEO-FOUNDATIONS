@@ -50,15 +50,7 @@ The smallest conservative organization is therefore realized by exactly two comp
 
 Denote the two centers by
 
-[
-F_O
-]
-
-and
-
-[
-F_C.
-]
+$$F_O \quad \text{and} \quad F_C$$
 
 They represent complementary organizations of the same primitive geometry.
 
@@ -88,11 +80,7 @@ The bifocal configuration introduces direction but not preference.
 
 Interchanging
 
-[
-F_O
-\leftrightarrow
-F_C
-]
+$$F_O \leftrightarrow F_C$$
 
 does not modify the primitive organization.
 
