@@ -101,9 +101,7 @@ $$\Phi=\rho(M_5)$$
 
 where
 
-[
-\rho
-]
+$$\rho$$
 
 denotes the spectral radius.
 
