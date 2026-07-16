@@ -20,9 +20,7 @@ No preferred coordinates are introduced.
 
 There exists a geometric domain
 
-[
-\mathcal{G}
-]
+$$\mathcal{G}$$
 
 whose existence is independent of observation.
 
