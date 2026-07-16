@@ -88,19 +88,19 @@ It is not externally imposed.
 
 ---
 
-# 6. Conservative Transport Operator
+### 6. Conservative Transport Operator
 
-Within the canonical realization adopted by GEO-MATH, conservative transport is represented by the operator
+Within the canonical realization adopted by GEO-MATH, conservative transport is represented by the operator:
 
-$$M_5(q) = \begin{pmatrix} O_3 & C \\ C^{T} & S_{B_2} \end{pmatrix}$$
+$$M_5(q) = \begin{pmatrix} O_3 & C \\ C^T & S_{B_2} \end{pmatrix}$$
 
-where
+where:
 
 $$O_3 = \frac{\eta}{B}I_3$$
 
 $$C = \frac{f_c}{\sqrt{6}} \mathbf{1}_{3\times 2}$$
 
-and
+and:
 
 $$S_{B_2} = \begin{pmatrix} BR & q \\ q & BR \end{pmatrix}$$
 
