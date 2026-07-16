@@ -22,9 +22,7 @@ The fundamental algebraic object is a conservative decomposition induced by admi
 
 In its canonical form:
 
-[
-G = \operatorname{Im}(C) \oplus \ker(C).
-]
+$$G = \operatorname{Im}(C) \oplus \ker(C)$$
 
 This identity states that primitive organization is not destroyed by interaction.
 
@@ -148,13 +146,11 @@ No later concept is used before it is algebraically defined.
 
 Let
 
-[
-C:G\to G
-]
+$$C:G\to G$$
 
 be an admissible transformation acting on primitive organization.
 
-If (C) preserves conservative identity, then its image and kernel define complementary algebraic sectors.
+If $$C$$ preserves conservative identity, then its image and kernel define complementary algebraic sectors.
 
 The image contains observable organization.
 
