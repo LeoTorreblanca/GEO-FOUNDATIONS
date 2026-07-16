@@ -18,17 +18,13 @@ The tangent plane is therefore not an auxiliary construction but the local geome
 
 Let
 
-[
-\mathcal{M}
-]
+$$\mathcal{M}$$
 
 denote the manifold of admissible conservative states.
 
 Every point of
 
-[
-\mathcal{M}
-]
+$$\mathcal{M}$$
 
 represents a valid redistribution of primitive organization.
 
@@ -42,21 +38,15 @@ Therefore physical evolution must remain inside it.
 
 Consider an infinitesimal displacement
 
-[
-\delta x.
-]
+$$\delta x$$
 
 If
 
-[
-\delta x
-]
+$$\delta x$$
 
 contains a component normal to
 
-[
-\mathcal{M},
-]
+$$\mathcal{M}$$
 
 the system leaves the conservative manifold.
 
@@ -70,21 +60,15 @@ Only tangent variations preserve admissibility.
 
 At every admissible configuration
 
-[
-p \in \mathcal{M},
-]
+$$p \in \mathcal{M}$$
 
 there exists a tangent space
 
-[
-T_p\mathcal{M}.
-]
+$$T_p\mathcal{M}$$.
 
 Every conservative redistribution belongs to
 
-[
-T_p\mathcal{M}.
-]
+$$T_p\mathcal{M}$$
 
 Thus the tangent plane is the natural geometric domain of internal evolution.
 
@@ -94,15 +78,7 @@ Thus the tangent plane is the natural geometric domain of internal evolution.
 
 Let
 
-[
-F_O
-]
-
-and
-
-[
-F_C
-]
+$$F_O$$ and $$F_C$$
 
 be the complementary centers.
 
@@ -110,9 +86,7 @@ Redistribution between them preserves the total conservative organization.
 
 Therefore the admissible transfer vector satisfies
 
-[
-\delta F_O + \delta F_C = 0.
-]
+$$\delta F_O + \delta F_C = 0$$
 
 This condition defines a tangent displacement.
 
@@ -122,15 +96,9 @@ The geometry evolves through balance rather than expansion.
 
 # Radial vs Tangential Motion
 
-A radial displacement changes the separation from the conservative manifold.
-
-A tangential displacement changes only the internal distribution while remaining inside the manifold.
-
-Since conservation forbids creation or annihilation of organization,
-
-radial evolution is not fundamental.
-
-Tangential evolution is.
+* **Radial displacement:** Changes the separation from the conservative manifold.
+* **Tangential displacement:** Changes only the internal distribution while remaining inside the manifold.
+Since conservation forbids the creation or annihilation of organization, radial evolution is not fundamental, whereas tangential evolution is.
 
 ---
 
@@ -154,9 +122,7 @@ The tangent plane exists only locally.
 
 Globally,
 
-[
-\mathcal{M}
-]
+$$\mathcal{M}$$
 
 may possess curvature.
 
