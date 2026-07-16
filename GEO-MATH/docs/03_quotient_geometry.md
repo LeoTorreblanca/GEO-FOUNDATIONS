@@ -18,22 +18,18 @@ It is not an independent assumption.
 
 Let
 
-[
-\mathcal G
-]
+$$\mathcal{G}$$
 
 be the primitive conservative geometry.
 
 From Conservative Decomposition,
 
-[
-\mathcal G = O \oplus B,
-]
+$$\mathcal{G} = O \oplus B$$
 
 where
 
-* (O) is the observable sector;
-* (B) is the complementary sector.
+* $$O$$ is the observable sector;
+* $$B$$ is the complementary sector.
 
 The complete primitive organization exists only in the pair.
 
@@ -43,15 +39,11 @@ The complete primitive organization exists only in the pair.
 
 Observation acts only on
 
-[
-O.
-]
+$$O$$
 
 Information contained in
 
-[
-B
-]
+$$B$$
 
 is not destroyed.
 
@@ -65,15 +57,11 @@ Therefore different primitive configurations may generate exactly the same obser
 
 Define the relation
 
-[
-x \sim y
-]
+$$x \sim y$$
 
 if
 
-[
-x-y \in B.
-]
+$$x - y \in B$$
 
 Two primitive configurations are equivalent whenever they differ only by complementary information.
 
@@ -91,15 +79,11 @@ Therefore it defines a valid equivalence relation.
 
 The observable object is not an individual element
 
-[
-x \in \mathcal G,
-]
+$$x \in \mathcal{G}$$
 
 but its equivalence class
 
-[
-[x].
-]
+$$[x]$$
 
 Every representative inside the same class projects identically.
 
@@ -111,23 +95,15 @@ Observation therefore identifies classes rather than primitive states.
 
 The collection of all equivalence classes defines the quotient
 
-[
-\boxed{
-\mathcal G/B.
-}
-]
+$$\mathcal{G} / B$$
 
 Observable mathematics is therefore naturally formulated on
 
-[
-\mathcal G/B
-]
+$$\mathcal{G} / B$$
 
 rather than on
 
-[
-\mathcal G.
-]
+$$\mathcal{G}$$
 
 The quotient is not optional.
 
@@ -139,15 +115,11 @@ It is forced by projection.
 
 Every observable quantity must satisfy
 
-[
-I(x)=I(y)
-]
+$$I(x) = I(y)$$
 
 whenever
 
-[
-x\sim y.
-]
+$$x \sim y$$
 
 Thus admissible observables are exactly the invariants of the quotient.
 
@@ -163,9 +135,7 @@ Projection suppresses access but not existence.
 
 Therefore
 
-[
-B
-]
+$$B$$
 
 acts as a hidden kernel rather than as discarded information.
 
@@ -191,7 +161,7 @@ The quotient construction introduces no dimensional assumption.
 
 Neither
 
-3+2
+$$3+2$$
 
 nor any numerical partition is required.
 
@@ -219,9 +189,7 @@ These conclusions follow directly from conservative decomposition.
 
 Once observable mathematics is formulated on
 
-[
-\mathcal G/B,
-]
+$$\mathcal{G} / B$$
 
 the next question becomes:
 
@@ -237,12 +205,7 @@ These operators emerge from the stabilized partition itself rather than from emp
 
 The next document derives the canonical operators
 
-[
-\eta,\qquad
-fc,\qquad
-B,\qquad
-R,
-]
+$$\eta, \quad fc, \quad B, \quad R$$
 
 and shows how they arise from the canonical organization of the quotient geometry.
 
@@ -260,9 +223,7 @@ Observable mathematics is therefore quotient mathematics.
 
 The quotient
 
-[
-\mathcal G/B
-]
+$$\mathcal{G} / B$$
 
 is not a modeling convenience.
 
