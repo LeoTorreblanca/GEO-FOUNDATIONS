@@ -155,9 +155,7 @@ No numerical constants have yet appeared.
 
 The decomposition
 
-[
-\mathcal G = O \oplus B
-]
+$$\mathcal{G} = O \oplus B$$
 
 is invariant under admissible coordinate changes.
 
