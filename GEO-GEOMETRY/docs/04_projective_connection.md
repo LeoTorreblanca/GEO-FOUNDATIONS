@@ -16,15 +16,7 @@ It will be shown that this connection is not an additional object but the natura
 
 The bifocal geometry contains two complementary centers
 
-[
-F_O
-]
-
-and
-
-[
-F_C.
-]
+$$F_O \quad \text{and} \quad F_C$$
 
 Tangential redistribution requires a continuous relation between them.
 
@@ -38,9 +30,7 @@ Therefore a geometric connection necessarily exists.
 
 Let
 
-[
-\Gamma
-]
+$$\Gamma$$
 
 denote the projective connection joining the two complementary centers.
 
@@ -56,9 +46,7 @@ Its role is structural rather than material.
 
 Redistribution along
 
-[
-\Gamma
-]
+$$\Gamma$$
 
 preserves the total organization.
 
@@ -80,9 +68,7 @@ Different projected realizations may correspond to the same underlying connectio
 
 Consequently,
 
-[
-\Gamma
-]
+$$\Gamma$$
 
 belongs to the primitive geometry rather than to observable space.
 
@@ -122,9 +108,7 @@ It defines how objects remain mutually consistent.
 
 Observable geometry is therefore constrained by the organization encoded in
 
-[
-\Gamma.
-]
+$$\Gamma$$
 
 ---
 
@@ -136,9 +120,7 @@ However,
 
 the inability to observe
 
-[
-\Gamma
-]
+$$\Gamma$$
 
 does not imply its absence.
 
@@ -160,9 +142,7 @@ Consequently,
 
 transport through
 
-[
-\Gamma
-]
+$$\Gamma$$
 
 preserves admissibility automatically.
 
