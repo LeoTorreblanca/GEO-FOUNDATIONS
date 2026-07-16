@@ -18,17 +18,13 @@ The decomposition is obtained as a structural consequence of conservation itself
 
 Let
 
-[
-\mathcal G
-]
+$$\mathcal{G}$$
 
 be the primitive generating geometry.
 
 By Axiom 2,
 
-[
-\mathcal C(\mathcal G)=\mathcal G.
-]
+$$\mathcal{C}(\mathcal{G}) = \mathcal{G}$$
 
 The total organization is preserved.
 
@@ -40,15 +36,11 @@ No admissible transformation may create or destroy information.
 
 Suppose an observer accesses only a subset
 
-[
-O \subset \mathcal G.
-]
+$$O \subset \mathcal{G}$$
 
 If
 
-[
-O=\mathcal G,
-]
+$$O = \mathcal{G}$$
 
 then observation is complete.
 
@@ -56,9 +48,7 @@ However, Axiom 4 states that observation is a projection.
 
 Therefore
 
-[
-O\neq\mathcal G.
-]
+$$O \neq \mathcal{G}$$
 
 There must exist information not contained in the observable sector.
 
@@ -66,9 +56,7 @@ Hence a complementary sector necessarily exists.
 
 Denote it by
 
-[
-B.
-]
+$$B$$
 
 ---
 
@@ -78,11 +66,7 @@ Since no information may disappear,
 
 the primitive geometry decomposes as
 
-[
-\boxed{
-\mathcal G = O \oplus B.
-}
-]
+$$\mathcal{G} = O \oplus B$$
 
 The observable sector and the complementary sector together reconstruct the primitive organization.
 
@@ -106,15 +90,11 @@ The decomposition is structural rather than coordinate dependent.
 
 Because
 
-[
-\mathcal G = O \oplus B,
-]
+$$\mathcal{G} = O \oplus B$$
 
 every admissible redistribution satisfies
 
-[
-O+B=\mathcal G.
-]
+$$O + B = \mathcal{G}$$
 
 No observable variation may alter the total organization.
 
@@ -130,11 +110,7 @@ The decomposition implies that every increase in one sector must be compensated 
 
 Symbolically,
 
-[
-\boxed{
-\delta O + \delta B = 0.
-}
-]
+$$\delta O + \delta B = 0$$
 
 Therefore complementary dynamics are tangent to the conservation manifold.
 
@@ -146,15 +122,11 @@ This differential relation will later generate the projective harmonic operator.
 
 Observation acts only on
 
-[
-O.
-]
+$$O$$
 
 The complementary sector
 
-[
-B
-]
+$$B$$
 
 is not absent.
 
