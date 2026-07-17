@@ -20,15 +20,13 @@ It is derived.
 
 Let
 
-\[
-T : G \rightarrow G
-\]
+$$T : G \rightarrow G$$
 
 be an admissible transformation.
 
 By definition,
 
-\(T\) preserves reconstructability of primitive organization.
+$$T$$ preserves reconstructability of primitive organization.
 
 Therefore primitive information cannot be destroyed.
 
@@ -40,15 +38,11 @@ Only its representation may change.
 
 Suppose that after transformation a primitive state
 
-\[
-x \in G
-\]
+$$x \in G$$
 
 is represented by
 
-\[
-T(x).
-\]
+$$T(x)$$
 
 If every primitive component remained observable,
 
@@ -70,29 +64,23 @@ Therefore every admissible transformation necessarily separates primitive organi
 
 There exist two subspaces
 
-\[
-\operatorname{Im}(T)
-\]
+$$\text{Im}(T)$$
 
 and
 
-\[
-\ker(T)
-\]
+$$\ker(T)$$
 
 such that every primitive state admits the decomposition
 
-\[
-x=i+k,
-\]
+$$x = i + k$$
 
 with
 
-\[
-i\in\operatorname{Im}(T),
-\qquad
-k\in\ker(T).
-\]
+$$i \in \text{Im}(T)$$
+
+and
+
+$$k \in \ker(T)$$
 
 The observable component belongs to the image.
 
@@ -106,21 +94,11 @@ Since no primitive organization is destroyed,
 
 the decomposition satisfies
 
-\[
-\boxed{
-G
-=
-\operatorname{Im}(T)
-\oplus
-\ker(T).
-}
-\]
+$$G = \text{Im}(T) \oplus \ker(T)$$
 
 The symbol
 
-\[
-\oplus
-\]
+$$\oplus$$
 
 expresses complementary reconstruction.
 
@@ -132,13 +110,7 @@ The primitive organization is recovered only through the joint participation of 
 
 Assume instead that
 
-\[
-G
-\neq
-\operatorname{Im}(T)
-\oplus
-\ker(T).
-\]
+$$G \neq \text{Im}(T) \oplus \ker(T)$$
 
 Then one of three situations occurs.
 
@@ -192,15 +164,11 @@ Only their sum reconstructs primitive organization.
 
 Therefore
 
-\[
-\operatorname{Im}(T)
-\]
+$$\text{Im}(T)$$
 
 and
 
-\[
-\ker(T)
-\]
+$$\ker(T)$$
 
 are complementary rather than competing sectors.
 
@@ -210,13 +178,7 @@ are complementary rather than competing sectors.
 
 Infinitesimal redistribution satisfies
 
-\[
-\delta i
-+
-\delta k
-=
-0.
-\]
+$$\delta i + \delta k = 0$$
 
 Observable gain corresponds to complementary redistribution.
 
@@ -230,17 +192,11 @@ Primitive organization remains invariant.
 
 Projection acts only on
 
-\[
-\operatorname{Im}(T).
-\]
+$$\text{Im}(T)$$
 
 Primitive reconstruction requires
 
-\[
-\operatorname{Im}(T)
-\oplus
-\ker(T).
-\]
+$$\text{Im}(T) \oplus \ker(T)$$
 
 Therefore projection is not invertible.
 
@@ -252,13 +208,7 @@ Reconstruction is necessarily representative-based.
 
 The decomposition
 
-\[
-G
-=
-\operatorname{Im}(T)
-\oplus
-\ker(T)
-\]
+$$G = \text{Im}(T) \oplus \ker(T)$$
 
 is minimal.
 
@@ -276,15 +226,7 @@ Since all kernel representatives project identically,
 
 observable identity is determined by
 
-\[
-x
-\sim
-y
-\iff
-x-y
-\in
-\ker(T).
-\]
+$$x \sim y \iff x - y \in \ker(T)$$
 
 Observable reality is therefore quotient reality.
 
@@ -326,15 +268,7 @@ This construction is developed in:
 
 Every admissible transformation preserving reconstructability induces a unique minimal conservative decomposition
 
-\[
-\boxed{
-G
-=
-\operatorname{Im}(T)
-\oplus
-\ker(T).
-}
-\]
+$$G = \text{Im}(T) \oplus \ker(T)$$
 
 The image contains observable organization.
 
