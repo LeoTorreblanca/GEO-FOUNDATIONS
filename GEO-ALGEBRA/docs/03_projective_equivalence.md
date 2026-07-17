@@ -16,9 +16,7 @@ It will be shown that projective equivalence is not an arbitrary relation but th
 
 Let
 
-\[
-x,y\in G.
-\]
+$$x, y \in G$$
 
 Although distinct as primitive states,
 
@@ -34,9 +32,7 @@ The purpose of this document is to characterize observable identity.
 
 Suppose
 
-\[
-T(x)=T(y).
-\]
+$$T(x) = T(y)$$
 
 An observer cannot distinguish the two representatives.
 
@@ -50,33 +46,23 @@ Observable identity is determined only after projection.
 
 Consider
 
-\[
-d=x-y.
-\]
+$$d = x - y$$
 
 Applying the transformation,
 
-\[
-T(d)=T(x)-T(y).
-\]
+$$T(d) = T(x) - T(y)$$
 
 If
 
-\[
-T(x)=T(y),
-\]
+$$T(x) = T(y)$$
 
 then
 
-\[
-T(d)=0.
-\]
+$$T(d) = 0$$
 
 Therefore
 
-\[
-d\in\ker(T).
-\]
+$$d \in \ker(T)$$
 
 The difference between indistinguishable representatives belongs to the kernel.
 
@@ -86,21 +72,15 @@ The difference between indistinguishable representatives belongs to the kernel.
 
 Assume instead
 
-\[
-x-y\notin\ker(T).
-\]
+$$x - y \notin \ker(T)$$
 
 Then
 
-\[
-T(x-y)\neq0.
-\]
+$$T(x - y) \neq 0$$
 
 Consequently
 
-\[
-T(x)\neq T(y).
-\]
+$$T(x) \neq T(y)$$
 
 The two representatives become observable as different states.
 
@@ -114,21 +94,15 @@ Conversely,
 
 suppose
 
-\[
-x-y\in\ker(T).
-\]
+$$x - y \in \ker(T)$$
 
 Then
 
-\[
-T(x-y)=0.
-\]
+$$T(x - y) = 0$$
 
 Hence
 
-\[
-T(x)=T(y).
-\]
+$$T(x) = T(y)$$
 
 The two representatives generate identical observable organization.
 
@@ -140,13 +114,7 @@ Kernel membership is sufficient.
 
 Combining necessity and sufficiency,
 
-\[
-\boxed{
-x\sim y
-\iff
-x-y\in\ker(T).
-}
-\]
+$$\boxed{x \sim y \iff x - y \in \ker(T)}$$
 
 Projective equivalence is therefore uniquely determined by the conservative kernel.
 
@@ -160,15 +128,11 @@ The relation satisfies:
 
 ## Reflexivity
 
-\[
-x-x=0\in\ker(T).
-\]
+$$x - x = 0 \in \ker(T)$$
 
 Hence
 
-\[
-x\sim x.
-\]
+$$x \sim x$$
 
 ---
 
@@ -176,23 +140,15 @@ x\sim x.
 
 If
 
-\[
-x-y\in\ker(T),
-\]
+$$x - y \in \ker(T)$$
 
 then
 
-\[
-y-x=-(x-y)\in\ker(T).
-\]
+$$y - x = -(x - y) \in \ker(T)$$
 
 Therefore
 
-\[
-x\sim y
-\Longrightarrow
-y\sim x.
-\]
+$$x \sim y \implies y \sim x$$
 
 ---
 
@@ -200,27 +156,19 @@ y\sim x.
 
 If
 
-\[
-x-y\in\ker(T),
-\]
+$$x - y \in \ker(T)$$
 
 and
 
-\[
-y-z\in\ker(T),
-\]
+$$y - z \in \ker(T)$$
 
 then
 
-\[
-x-z=(x-y)+(y-z)\in\ker(T).
-\]
+$$x - z = (x - y) + (y - z) \in \ker(T)$$
 
 Therefore
 
-\[
-x\sim z.
-\]
+$$x \sim z$$
 
 The relation is a genuine equivalence relation.
 
@@ -230,23 +178,17 @@ The relation is a genuine equivalence relation.
 
 Every primitive representative belongs to an equivalence class
 
-\[
-[x].
-\]
+$$[x]$$
 
 The observer never accesses
 
-\[
-x
-\]
+$$x$$
 
 itself.
 
 The observer accesses only
 
-\[
-[x].
-\]
+$$[x]$$
 
 Observable reality is therefore class-based rather than representative-based.
 
@@ -256,9 +198,7 @@ Observable reality is therefore class-based rather than representative-based.
 
 Selecting one representative from
 
-\[
-[x]
-\]
+$$[x]$$
 
 does not alter observable geometry.
 
@@ -294,9 +234,7 @@ the natural observable object is no longer an individual representative.
 
 It is the quotient space
 
-\[
-G/\ker(T).
-\]
+$$G / \ker(T)$$
 
 Observable algebra therefore becomes quotient algebra.
 
@@ -316,13 +254,7 @@ This construction is developed in:
 
 The unique observable identity compatible with conservative decomposition is
 
-\[
-\boxed{
-x\sim y
-\iff
-x-y\in\ker(T).
-}
-\]
+$$\boxed{x \sim y \iff x - y \in \ker(T)}$$
 
 Observable reality is therefore determined by kernel cosets.
 
