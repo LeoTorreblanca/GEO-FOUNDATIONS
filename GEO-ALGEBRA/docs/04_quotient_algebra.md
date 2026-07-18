@@ -16,9 +16,7 @@ The present document proves that observable algebra is therefore naturally defin
 
 Let
 
-\[
-G
-\]
+$$G$$
 
 be the primitive conservative domain.
 
@@ -34,11 +32,7 @@ Observation acts only through equivalence classes.
 
 By the Projective Equivalence Theorem,
 
-\[
-x\sim y
-\iff
-x-y\in\ker(T).
-\]
+$$x \sim y \iff x - y \in \ker(T)$$
 
 Therefore every observable state corresponds to an entire family of primitive representatives.
 
@@ -50,19 +44,11 @@ The observable object is the class itself.
 
 Define
 
-\[
-[x]
-=
-x+\ker(T).
-\]
+$$[x] = x + \ker(T)$$
 
 The collection of all such classes forms
 
-\[
-\boxed{
-G/\ker(T).
-}
-\]
+$$\boxed{G / \ker(T)}$$
 
 This quotient space identifies exactly those representatives that cannot be distinguished observationally.
 
@@ -72,47 +58,35 @@ This quotient space identifies exactly those representatives that cannot be dist
 
 Let
 
-\[
-[x],[y]\in G/\ker(T).
-\]
+$$[x], [y] \in G / \ker(T)$$
 
 Define
 
-\[
-[x]+[y]=[x+y].
-\]
+$$[x] + [y] = [x + y]$$
 
 Suppose
 
-\[
-x'\sim x,
-\qquad
-y'\sim y.
-\]
+$$x' \sim x$$
+
+and 
+
+$$y' \sim y$$
 
 Then
 
-\[
-x'-x\in\ker(T),
-\qquad
-y'-y\in\ker(T).
-\]
+$$x' - x \in \ker(T)$$
+
+and 
+
+$$y' - y \in \ker(T)$$
 
 Hence
 
-\[
-(x'+y')-(x+y)
-\in
-\ker(T).
-\]
+$$(x' + y') - (x + y) \in \ker(T)$$
 
 Therefore
 
-\[
-[x'+y']
-=
-[x+y].
-\]
+$$[x' + y'] = [x + y]$$
 
 Addition is independent of representatives.
 
@@ -124,41 +98,27 @@ The quotient algebra is well defined.
 
 For every scalar
 
-\[
-\lambda,
-\]
+$$\lambda$$
 
 define
 
-\[
-\lambda[x]=[\lambda x].
-\]
+$$\lambda[x] = [\lambda x]$$
 
 If
 
-\[
-x'\sim x,
-\]
+$$x' \sim x$$
 
 then
 
-\[
-x'-x\in\ker(T).
-\]
+$$x' - x \in \ker(T)$$
 
 Consequently,
 
-\[
-\lambda(x'-x)\in\ker(T).
-\]
+$$\lambda(x' - x) \in \ker(T)$$
 
 Thus
 
-\[
-[\lambda x']
-=
-[\lambda x].
-\]
+$$[\lambda x'] = [\lambda x]$$
 
 Scalar multiplication is also well defined.
 
@@ -190,21 +150,15 @@ Observable physics depends only on quotient classes.
 
 Define the canonical projection
 
-\[
-\pi:G\rightarrow G/\ker(T)
-\]
+$$\pi : G \rightarrow G / \ker(T)$$
 
 by
 
-\[
-\pi(x)=[x].
-\]
+$$\pi(x) = [x]$$
 
 Every observable quantity factors through
 
-\[
-\pi.
-\]
+$$\pi$$
 
 Primitive information inaccessible to projection remains encoded in the kernel.
 
@@ -214,9 +168,7 @@ Primitive information inaccessible to projection remains encoded in the kernel.
 
 The projection
 
-\[
-\pi
-\]
+$$\pi$$
 
 is surjective but generally not injective.
 
@@ -234,9 +186,7 @@ Projection alone is insufficient.
 
 Suppose an observable algebra smaller than
 
-\[
-G/\ker(T)
-\]
+$$G / \ker(T)$$
 
 exists.
 
@@ -250,9 +200,7 @@ Both possibilities contradict projective equivalence.
 
 Therefore
 
-\[
-G/\ker(T)
-\]
+$$G / \ker(T)$$
 
 is the unique minimal observable algebra.
 
@@ -292,11 +240,7 @@ where primitive organization is recovered from observable classes together with 
 
 The observable algebra of GEO is uniquely represented by
 
-\[
-\boxed{
-G/\ker(T).
-}
-\]
+$$\boxed{G / \ker(T)}$$
 
 Primitive representatives are secondary.
 
