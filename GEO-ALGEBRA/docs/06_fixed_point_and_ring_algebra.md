@@ -16,17 +16,13 @@ The Ring is therefore derived rather than postulated.
 
 Let
 
-[
-T:\mathcal G\rightarrow\mathcal G
-]
+$$T : \mathcal{G} \rightarrow \mathcal{G}$$
 
 be an admissible transformation.
 
 Admissibility requires preservation of the primitive conservative law
 
-[
-A+B=1.
-]
+$$A + B = 1$$
 
 Every admissible evolution must therefore conserve total organization.
 
@@ -38,23 +34,13 @@ No transformation may create or destroy conservative content.
 
 Consider repeated application of the same admissible transformation
 
-[
-T^n.
-]
+$$T^n$$
 
 Each iteration redistributes organization internally while preserving total conservation.
 
 The sequence
 
-[
-\mathcal G,
-;
-T(\mathcal G),
-;
-T^2(\mathcal G),
-;
-\dots
-]
+$$\mathcal{G}, T(\mathcal{G}), T^2(\mathcal{G}), \dots$$
 
 remains inside the same conservative equivalence class.
 
@@ -78,12 +64,7 @@ Therefore admissible evolution requires convergence toward a stable organization
 
 A conservative fixed point satisfies
 
-[
-T(\mathcal G^\star)
-===================
-
-\mathcal G^\star.
-]
+$$T(\mathcal{G}^\star) = \mathcal{G}^\star$$
 
 The fixed point does not imply absence of internal dynamics.
 
@@ -117,9 +98,7 @@ The cyclic organization minimizes conservative imbalance.
 
 Observable and complementary sectors exchange information continuously while preserving
 
-[
-A+B=1.
-]
+$$A + B = 1$$
 
 The equilibrium reached by this circulation defines harmonic organization.
 
@@ -137,9 +116,7 @@ Residual organization is therefore reinjected into subsequent cycles.
 
 The first primitive recurrence naturally appears with characteristic order
 
-[
-B^5.
-]
+$$B^5$$
 
 Residual memory is an inevitable consequence of cyclic conservative transport.
 
@@ -149,15 +126,11 @@ Residual memory is an inevitable consequence of cyclic conservative transport.
 
 Residual reinjection defines the transport variable
 
-[
-q.
-]
+$$q$$
 
 The quantity
 
-[
-q
-]
+$$q$$
 
 measures conservative feedback accumulated after one complete cycle.
 
@@ -173,9 +146,7 @@ Within the canonical realization adopted by GEO-MATH,
 
 the residual transport variable generates
 
-[
-M_5(q).
-]
+$$M_5(q)$$
 
 The transfer operator therefore appears only after cyclic closure has already been established.
 
@@ -195,14 +166,7 @@ Within the canonical realization,
 
 this invariant is expressed as
 
-[
-\boxed{
-\Phi
-====
-
-\rho(M_5).
-}
-]
+$$\boxed{\Phi = \rho(M_5)}$$
 
 The spectral invariant is therefore a consequence of conservative cyclic closure.
 
@@ -214,14 +178,7 @@ Once the dominant invariant exists,
 
 observable intensity follows through
 
-[
-\boxed{
-\alpha
-======
-
-\frac{\Phi B}{\sqrt2}.
-}
-]
+$$\boxed{\alpha = \frac{\Phi B}{\sqrt{2}}}$$
 
 Projection inherits the stable organization already established by conservative evolution.
 
@@ -261,64 +218,29 @@ Hence the Harmonic Ring is unique.
 
 # 14. Algebraic Hierarchy
 
-The complete hierarchy becomes
-
-[
-A+B=1
-]
-
-↓
-
+The complete hierarchy is:
+$$A + B = 1$$
+$$\downarrow$$
 Admissible Transformation
-
-↓
-
+$$\downarrow$$
 Repeated Conservative Evolution
-
-↓
-
+$$\downarrow$$
 Unique Fixed Point
-
-↓
-
+$$\downarrow$$
 Harmonic Ring
-
-↓
-
+$$\downarrow$$
 Residual Return
-
-↓
-
-[
-q
-]
-
-↓
-
-[
-M_5(q)
-]
-
-↓
-
-[
-\rho(M_5)
-]
-
-↓
-
-[
-\Phi
-]
-
-↓
-
-[
-\alpha
-]
-
-↓
-
+$$\downarrow$$
+$$q$$
+$$\downarrow$$
+$$M_5(q)$$
+$$\downarrow$$
+$$\rho(M_5)$$
+$$\downarrow$$
+$$\Phi$$
+$$\downarrow$$
+$$\alpha$$
+$$\downarrow$$
 Observable Projection
 
 Every level follows necessarily from the preceding one.
@@ -339,21 +261,15 @@ Cyclic transport generates residual return.
 
 Residual return defines the conservative transfer operator
 
-[
-M_5(q),
-]
+$$M_5(q)$$
 
 whose dominant spectral realization produces
 
-[
-\Phi.
-]
+$$\Phi$$
 
 Observable intensity follows through
 
-[
-\alpha,
-]
+$$\alpha$$
 
 making projection the final manifestation of an internally closed conservative hierarchy.
 
