@@ -219,29 +219,30 @@ Hence the Harmonic Ring is unique.
 # 14. Algebraic Hierarchy
 
 The complete hierarchy is:
-$$A + B = 1$$
-$$\downarrow$$
-Admissible Transformation
-$$\downarrow$$
-Repeated Conservative Evolution
-$$\downarrow$$
-Unique Fixed Point
-$$\downarrow$$
-Harmonic Ring
-$$\downarrow$$
-Residual Return
-$$\downarrow$$
-$$q$$
-$$\downarrow$$
-$$M_5(q)$$
-$$\downarrow$$
-$$\rho(M_5)$$
-$$\downarrow$$
-$$\Phi$$
-$$\downarrow$$
-$$\alpha$$
-$$\downarrow$$
-Observable Projection
+
+* $$A + B = 1$$
+* $$\downarrow$$
+* **Admissible Transformation**
+* $$\downarrow$$
+* **Repeated Conservative Evolution**
+* $$\downarrow$$
+* **Unique Fixed Point**
+* $$\downarrow$$
+* **Harmonic Ring**
+* $$\downarrow$$
+* **Residual Return**
+* $$\downarrow$$
+* $$q$$
+* $$\downarrow$$
+* $$M_5(q)$$
+* $$\downarrow$$
+* $$\rho(M_5)$$
+* $$\downarrow$$
+* $$\Phi$$
+* $$\downarrow$$
+* $$\alpha$$
+* $$\downarrow$$
+* **Observable Projection**
 
 Every level follows necessarily from the preceding one.
 
