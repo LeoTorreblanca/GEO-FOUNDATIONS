@@ -16,17 +16,13 @@ Within GEO-MATH, this closure is represented through the dominant spectral reali
 
 Let
 
-[
-T:\mathcal G\rightarrow\mathcal G
-]
+$$T : \mathcal{G} \rightarrow \mathcal{G}$$
 
 be an admissible conservative transformation.
 
 By definition,
 
-[
-A+B=1
-]
+$$A + B = 1$$
 
 must remain invariant.
 
@@ -50,18 +46,11 @@ Therefore admissible conservative evolution requires algebraic closure.
 
 Closure defines a fixed organization
 
-[
-\mathcal G^\star
-]
+$$\mathcal{G}^\star$$
 
 such that
 
-[
-T(\mathcal G^\star)
-===================
-
-\mathcal G^\star.
-]
+$$T(\mathcal{G}^\star) = \mathcal{G}^\star$$
 
 The fixed organization is not static.
 
@@ -87,9 +76,7 @@ Each complete conservative traversal generates residual feedback.
 
 This feedback is represented by
 
-[
-q.
-]
+$$q$$
 
 The residual is not discarded.
 
@@ -103,9 +90,7 @@ Closure therefore possesses memory.
 
 The canonical realization adopted by GEO-MATH represents conservative evolution through
 
-[
-M_5(q).
-]
+$$M_5(q)$$
 
 The operator evolves internal organization while preserving the conservative fixed point.
 
@@ -123,14 +108,7 @@ Within the canonical realization,
 
 this mode is represented by
 
-[
-\boxed{
-\Phi
-====
-
-\rho(M_5).
-}
-]
+$$\boxed{\Phi = \rho(M_5)}$$
 
 The spectral invariant is therefore the algebraic expression of conservative closure.
 
@@ -140,11 +118,7 @@ The spectral invariant is therefore the algebraic expression of conservative clo
 
 Assume two distinct dominant invariants
 
-[
-\Phi_1
-\neq
-\Phi_2.
-]
+$$\Phi_1 \neq \Phi_2$$
 
 Then two incompatible conservative closures would exist.
 
@@ -184,59 +158,29 @@ The dominant invariant anchors reconstruction.
 
 # 11. Algebraic Hierarchy
 
-The complete hierarchy becomes
+The complete hierarchy is:
 
-[
-A+B=1
-]
-
-↓
-
-Admissible Transformation
-
-↓
-
-Conservative Evolution
-
-↓
-
-Residual Return
-
-↓
-
-[
-q
-]
-
-↓
-
-[
-M_5(q)
-]
-
-↓
-
-Fixed Conservative Organization
-
-↓
-
-[
-\rho(M_5)
-]
-
-↓
-
-[
-\Phi
-]
-
-↓
-
-Projection
-
-↓
-
-Observation
+* $$A + B = 1$$
+* $$\downarrow$$
+* **Admissible Transformation**
+* $$\downarrow$$
+* **Conservative Evolution**
+* $$\downarrow$$
+* **Residual Return**
+* $$\downarrow$$
+* $$q$$
+* $$\downarrow$$
+* $$M_5(q)$$
+* $$\downarrow$$
+* **Fixed Conservative Organization**
+* $$\downarrow$$
+* $$\rho(M_5)$$
+* $$\downarrow$$
+* $$\Phi$$
+* $$\downarrow$$
+* **Projection**
+* $$\downarrow$$
+* **Observation**
 
 Closure appears before every observable realization.
 
@@ -272,21 +216,15 @@ Algebraic closure follows inevitably from conservative admissibility.
 
 Residual return generates the transport variable
 
-[
-q,
-]
+$$q$$
 
 which defines the canonical transfer operator
 
-[
-M_5(q).
-]
+$$M_5(q)$$
 
 The unique dominant spectral realization
 
-[
-\Phi=\rho(M_5)
-]
+$$\Phi = \rho(M_5)$$
 
 provides the algebraic fixed point of conservative evolution.
 
