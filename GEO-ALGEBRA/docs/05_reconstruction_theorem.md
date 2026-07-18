@@ -16,9 +16,7 @@ Instead, reconstruction is the admissible recovery of primitive organization thr
 
 Let
 
-\[
-[x]\in G/\ker(T).
-\]
+$$[x] \in G / \ker(T)$$
 
 The observable class contains all primitive representatives compatible with the same projection.
 
@@ -36,9 +34,7 @@ Then every observable class would contain exactly one representative.
 
 Consequently,
 
-\[
-\ker(T)=\{0\}.
-\]
+$$\ker(T) = \{0\}$$
 
 No complementary organization would exist.
 
@@ -52,21 +48,15 @@ Therefore projection is generally not invertible.
 
 Given
 
-\[
-[x],
-\]
+$$[x]$$
 
 the objective is to recover a primitive state
 
-\[
-r\in G
-\]
+$$r \in G$$
 
 such that
 
-\[
-\pi(r)=[x].
-\]
+$$\pi(r) = [x]$$
 
 The problem is therefore representative selection rather than inverse projection.
 
@@ -76,11 +66,7 @@ The problem is therefore representative selection rather than inverse projection
 
 Since
 
-\[
-[x]
-=
-x+\ker(T),
-\]
+$$[x] = x + \ker(T)$$
 
 the class itself contains primitive representatives.
 
@@ -94,23 +80,17 @@ Reconstruction is possible.
 
 If
 
-\[
-k\in\ker(T),
-\]
+$$k \in \ker(T)$$
 
 then
 
-\[
-r+k
-\]
+$$r + k$$
 
 belongs to the same observable class.
 
 Hence
 
-\[
-\pi(r+k)=\pi(r).
-\]
+$$\pi(r + k) = \pi(r)$$
 
 Different primitive organizations may correspond to identical observations.
 
@@ -126,17 +106,15 @@ Primitive organization requires the complementary kernel component.
 
 Thus reconstruction takes the form
 
-\[
-r=i+k,
-\]
+$$r = i + k$$
 
 where
 
-\[
-i\in\operatorname{Im}(T),
-\qquad
-k\in\ker(T).
-\]
+$$i \in \text{Im}(T)$$
+
+and
+
+$$k \in \ker(T)$$
 
 The kernel is not optional.
 
@@ -148,15 +126,11 @@ It is required for complete recovery.
 
 Define
 
-\[
-R:G/\ker(T)\rightarrow G
-\]
+$$R : G / \ker(T) \rightarrow G$$
 
 such that
 
-\[
-R([x])\in[x].
-\]
+$$R([x]) \in [x]$$
 
 The operator selects one admissible representative.
 
@@ -172,9 +146,7 @@ it provides a compatible realization of the observable class.
 
 Applying projection after reconstruction yields
 
-\[
-\pi(R([x]))=[x].
-\]
+$$\pi(R([x])) = [x]$$
 
 Therefore reconstruction preserves observable consistency.
 
@@ -208,11 +180,7 @@ Adding independent information introduces unnecessary structure.
 
 Therefore
 
-\[
-\operatorname{Im}(T)
-\oplus
-\ker(T)
-\]
+$$\text{Im}(T) \oplus \ker(T)$$
 
 is the unique minimal algebra supporting reconstruction.
 
@@ -258,11 +226,7 @@ Primitive organization is recovered by selecting an admissible representative to
 
 The reconstruction operator therefore satisfies
 
-\[
-\boxed{
-R([x])\in[x],
-}
-\]
+$$\boxed{R([x]) \in [x]}$$
 
 while preserving conservative consistency.
 
