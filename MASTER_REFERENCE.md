@@ -151,7 +151,7 @@ Introduces
 | Im(T) | Observable image |
 | ker(T) | Complementary kernel |
 | π | Canonical projection |
-| ℛ_rec | Reconstruction operator |
+| ℛ_rec  | Reconstruction operator         |
 | ℛ | Harmonic organization |
 | Φ | Dominant spectral invariant |
 | α | Observable projection intensity |
