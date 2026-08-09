@@ -145,17 +145,43 @@ Introduces
 # Primitive Objects
 
 | Symbol | Meaning |
-|---------|-----------------------------------------|
+| ------ | ------- |
 | G | Primitive organization |
 | T | Admissible transformation |
 | Im(T) | Observable image |
 | ker(T) | Complementary kernel |
 | π | Canonical projection |
-| R | Reconstruction operator |
+| ℛ_rec | Reconstruction operator |
 | ℛ | Harmonic organization |
-| Φ | Dominant invariant |
+| Φ | Dominant spectral invariant |
 | α | Observable projection intensity |
 
+# Effectiveness Variables
+
+| Symbol | Meaning |
+| ------ | ------- |
+| η | Canonical geometric efficiency |
+| fc | Canonical geometric factor, fc = √η |
+| μ_eff | Application-dependent normalized effective state |
+| R | Geometric effectiveness response, R³ = μ_eff |
+
+The response \(R\) appearing in the Fundamental Law of Geometric
+Effectiveness is distinct from the reconstruction operator.
+
+To avoid notational ambiguity, the reconstruction operator is denoted
+\(\mathcal{R}_{\mathrm{rec}}\) throughout the current specification.
+
+The Fundamental Law is
+
+\[
+R^3=\mu_{\mathrm{eff}},
+\qquad
+R=\mu_{\mathrm{eff}}^{1/3}.
+\]
+
+No universal identification
+\(\mu_{\mathrm{eff}}\equiv\eta\)
+is assumed.
 ---
 
 # Canonical Operators
