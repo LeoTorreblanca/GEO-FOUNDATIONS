@@ -91,15 +91,33 @@ $$B^5$$
 Residual return therefore introduces conservative memory into the transport process.
 
 ---
-
 # 6. Closure Correction
 
-The transport parameter is written
+The transport parameter is written as
 
-$$t = \frac{\pi}{4} + \Delta_{\mathrm{closure}}$$
+$$
+t = \frac{\pi}{4} + \Delta_{\mathrm{closure}}.
+$$
 
 The closure correction is expressed as
-$$\Delta_{\mathrm{closure}} = \frac{1-R}{100} C_{\mathrm{ring}}, \quad R = \eta^{1/3}$$
+
+$$
+\Delta_{\mathrm{closure}}
+=
+\frac{1-R}{100} C_{\mathrm{ring}},
+$$
+
+where the geometric effectiveness response satisfies the Fundamental Law
+
+$$
+R^3 = \mu_{\mathrm{eff}},
+\qquad
+R = \mu_{\mathrm{eff}}^{1/3}.
+$$
+
+Here, $\mu_{\mathrm{eff}}$ is the application-dependent normalized effective state.
+
+No universal identification between $\mu_{\mathrm{eff}}$ and the canonical geometric efficiency $\eta$ is assumed. The construction of $\mu_{\mathrm{eff}}$ must be explicitly specified by each physical or computational realization.
 
 This correction represents accumulated residual transport rather than geometric displacement.
 
