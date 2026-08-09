@@ -101,11 +101,7 @@ $$
 
 The closure correction is expressed as
 
-$$
-\Delta_{\mathrm{closure}}
-=
-\frac{1-R}{100} C_{\mathrm{ring}},
-$$
+$$ Delta_{\mathrm{closure}}=frac{1-R}{100} C_{\mathrm{ring}}$$
 
 where the geometric effectiveness response satisfies the Fundamental Law
 
