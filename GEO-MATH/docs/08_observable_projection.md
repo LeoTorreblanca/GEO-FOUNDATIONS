@@ -113,14 +113,73 @@ remains satisfied throughout the process.
 No projection violates conservation.
 
 ---
-
 # 7. Cosmological Projection
 
-In cosmology, defining $$R = \eta^{1/3}$$, the projected expansion is:
-$$H_0 = H_{0,\text{base}} \left[ 1 + \alpha(1 - R) \right]$$
-Substituting $$\alpha = \frac{\Phi B}{\sqrt{2}}$$, we obtain:
-$$H_0 = H_{0,\text{base}} \left[ 1 + \frac{\Phi B}{\sqrt{2}} (1 - \eta^{1/3}) \right]$$
-The observed Hubble value emerges as a direct consequence of conservative spectral organization.
+In the cosmological realization, the application-dependent effective state is denoted by
+
+$$
+\mu_{\mathrm{eff}}.
+$$
+
+The Fundamental Law of Geometric Effectiveness defines the corresponding response as
+
+$$
+R^3 = \mu_{\mathrm{eff}},
+\qquad
+R = \mu_{\mathrm{eff}}^{1/3}.
+$$
+
+The quantity $\mu_{\mathrm{eff}}$ is not universally identified with the canonical geometric efficiency $\eta$. Its construction must be explicitly specified by the cosmological realization.
+
+Once the effective state has been defined, the projected expansion is
+
+$$
+H_0 =
+H_{0,\mathrm{base}}
+\left[
+1+\alpha(1-R)
+\right].
+$$
+
+Using
+
+$$
+\alpha = \frac{\Phi B}{\sqrt{2}},
+$$
+
+the projection becomes
+
+$$
+H_0 =
+H_{0,\mathrm{base}}
+\left[
+1+
+\frac{\Phi B}{\sqrt{2}}
+(1-R)
+\right],
+$$
+
+with
+
+$$
+R = \mu_{\mathrm{eff}}^{1/3}.
+$$
+
+Equivalently,
+
+$$
+H_0 =
+H_{0,\mathrm{base}}
+\left[
+1+
+\frac{\Phi B}{\sqrt{2}}
+\left(
+1-\mu_{\mathrm{eff}}^{1/3}
+\right)
+\right].
+$$
+
+The observed Hubble value therefore emerges from the conservative spectral organization together with the application-dependent effective state supplied by the cosmological realization.
 
 ---
 
