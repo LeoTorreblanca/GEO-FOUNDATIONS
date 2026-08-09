@@ -158,20 +158,35 @@ The complete logical sequence is:
 The invariant is therefore generated rather than assumed.
 
 ---
-
 # 10. Hubble as Spectral Projection
 
 Cosmological expansion represents the first explicit observable realization of this hierarchy.
 
-Using
+The Fundamental Law of Geometric Effectiveness defines
 
-$$R = \eta^{1/3}$$
+$$
+R^3 = \mu_{\mathrm{eff}},
+\qquad
+R = \mu_{\mathrm{eff}}^{1/3},
+$$
 
-projection yields
+where $\mu_{\mathrm{eff}}$ is the application-dependent normalized effective state.
 
-$$H_0 = H_{0,\text{base}} \left[ 1 + \frac{\Phi B}{\sqrt{2}} (1 - R) \right]$$
+The quantity $\mu_{\mathrm{eff}}$ is not universally identified with the canonical geometric efficiency $\eta$. Each physical realization must explicitly specify how its effective state is constructed.
 
-The Hubble value is therefore interpreted as a consequence of spectral organization.
+For the cosmological realization, once $\mu_{\mathrm{eff}}$ has been defined and the corresponding response $R$ obtained, spectral projection yields
+
+$$
+H_0 =
+H_{0,\mathrm{base}}
+\left[
+1+
+\frac{\Phi B}{\sqrt{2}}
+(1-R)
+\right].
+$$
+
+The Hubble value is therefore interpreted as a consequence of spectral organization acting through an application-dependent geometric effectiveness response.
 
 It is not the origin of the invariant.
 
