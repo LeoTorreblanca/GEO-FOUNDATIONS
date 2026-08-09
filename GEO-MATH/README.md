@@ -162,61 +162,55 @@ No observable parameter is postulated independently.
 ---
 # Hubble as First Corollary
 
-Within this framework, cosmological expansion provides the first explicit
-observable realization of the internal conservative spectrum.
+Within this framework, cosmological expansion provides the first explicit observable realization of the internal conservative spectrum.
 
 The Fundamental Law of Geometric Effectiveness is
 
-\[
-R^3=\mu_{\mathrm{eff}},
-\]
+$$
+R^3 = \mu_{\mathrm{eff}},
+$$
 
 or equivalently,
 
-\[
-R=\mu_{\mathrm{eff}}^{1/3},
-\]
+$$
+R = \mu_{\mathrm{eff}}^{1/3},
+$$
 
-where \(\mu_{\mathrm{eff}}\) is an effective normalized state constructed
-by the specific physical application.
+where $\mu_{\mathrm{eff}}$ is an effective normalized state constructed by the specific physical application.
 
-The quantity \(\mu_{\mathrm{eff}}\) is not universally identified with the
-canonical partition parameter \(\eta\). The canonical geometry defines
+The quantity $\mu_{\mathrm{eff}}$ is not universally identified with the canonical partition parameter $\eta$.
 
-\[
-\eta=\frac{3}{5},
+The canonical geometry defines
+
+$$
+\eta = \frac{3}{5},
 \qquad
-f_c=\sqrt{\eta},
+f_c = \sqrt{\eta},
 \qquad
-B=1-\eta,
-\]
+B = 1-\eta.
+$$
 
-whereas each application must explicitly specify the construction of
-\(\mu_{\mathrm{eff}}\).
+Each application must explicitly specify how $\mu_{\mathrm{eff}}$ is constructed.
 
-For the cosmological realization, once the corresponding effective state
-has been constructed, projection takes the form
+For the cosmological realization, once the corresponding effective state has been constructed, the projection takes the form
 
-\[
-H_0
-=
+$$
+H_0 =
 H_{0,\mathrm{base}}
 \left[
 1+
 \frac{\Phi B}{\sqrt{2}}
 (1-R)
 \right],
-\]
+$$
 
 with
 
-\[
-R=\mu_{\mathrm{eff}}^{1/3}.
-\]
+$$
+R = \mu_{\mathrm{eff}}^{1/3}.
+$$
 
-The Hubble value is therefore interpreted as an observable realization of
-the conservative spectral architecture together with an
-application-dependent effective state.
+The Hubble value is therefore interpreted as an observable realization of the conservative spectral architecture together with an application-dependent effective state.
 
 It is not the origin of the framework.
 
