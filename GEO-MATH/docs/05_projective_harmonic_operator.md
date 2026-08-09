@@ -90,11 +90,31 @@ Residual memory is therefore intrinsic to harmonic evolution.
 
 Transport is parameterized by
 
-$$t = \frac{\pi}{4} + \Delta_{\mathrm{closure}}$$
+$$
+t = \frac{\pi}{4} + \Delta_{\mathrm{closure}}
+$$
 
 where
 
-$$\Delta_{\mathrm{closure}} = \frac{1-R}{100} C_{\mathrm{ring}}, \quad R = \eta^{1/3}$$
+$$
+\Delta_{\mathrm{closure}}
+=
+\frac{1-R}{100} C_{\mathrm{ring}}
+$$
+
+and the geometric effectiveness response is defined by the Fundamental Law
+
+$$
+R^3 = \mu_{\mathrm{eff}},
+\qquad
+R = \mu_{\mathrm{eff}}^{1/3}.
+$$
+
+Here, $\mu_{\mathrm{eff}}$ is the application-dependent normalized effective state supplied to the geometric effectiveness law.
+
+It is not universally identified with the canonical geometric efficiency $\eta$.
+
+The canonical parameter $\eta$ belongs to the underlying GEO architecture, whereas $\mu_{\mathrm{eff}}$ must be explicitly constructed by the corresponding physical or computational realization.
 
 Closure represents accumulated conservative transport rather than geometric displacement.
 
