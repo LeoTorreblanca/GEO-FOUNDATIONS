@@ -97,9 +97,9 @@ $$
 where
 
 $$
-\Delta_{\mathrm{closure}}
+Delta_{\mathrm{closure}}
 =
-\frac{1-R}{100} C_{\mathrm{ring}}
+frac{1-R}{100} C_{\mathrm{ring}}
 $$
 
 and the geometric effectiveness response is defined by the Fundamental Law
