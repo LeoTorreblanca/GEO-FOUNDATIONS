@@ -173,14 +173,12 @@ To avoid notational ambiguity, the reconstruction operator is denoted
 
 The Fundamental Law is
 
-\[
-R^3=\mu_{\mathrm{eff}},
-\qquad
-R=\mu_{\mathrm{eff}}^{1/3}.
-\]
+$$
+R^3=\mu_{\mathrm{eff}}, \qquad R=\mu_{\mathrm{eff}}^{1/3}.
+$$
 
 No universal identification
-\(\mu_{\mathrm{eff}}\equiv\eta\)
+$\mu_{\mathrm{eff}}\equiv\eta$
 is assumed.
 ---
 
